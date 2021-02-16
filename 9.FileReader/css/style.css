@@ -1,0 +1,11 @@
+#upload{
+    font-size: 60px;
+    color: teal;
+    cursor: pointer;
+}
+
+.dropArea{
+    height: 300px;
+    background-color: #aaa;
+    line-height: 20;
+}
